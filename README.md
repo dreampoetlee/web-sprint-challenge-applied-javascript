@@ -76,7 +76,21 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is the DOM?
+
+  - Document Object Model.  The DOM (Document Object Model) is an interface that represents how your HTML and XML documents are read by the browser. It allows a language (JavaScript) to manipulate, structure, and style your website.
+
 2. What is an event?
+
+  - Anything that changes in the DOM via user interaction
+
 3. What is an event listener?
+
+  - Anything that listens for an event, then executes an event, like mouse scroll, mouse click, mouse hover, etc.
+
 4. Why would we convert a NodeList into an Array?
+
+  - A NodeList does not have all capabilities of an array, like .map(), .filter(), etc.
+
 5. What is a component?
+
+  - Any chunk of code, like a header or footer, especially re-usable code.
